@@ -1,5 +1,5 @@
 Package: sixarm-debian-ruby-packages
-Version: 1.0.3
+Version: 1.0.4
 Section: ruby
 Priority: optional
 Architecture: all
